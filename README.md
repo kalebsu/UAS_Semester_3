@@ -16,12 +16,11 @@
 <img width="950" alt="gambar 4" src="https://user-images.githubusercontent.com/92831647/211249189-38930b8c-d787-4e98-84e0-d5ef65e33a15.png">
 
 
-- Framework Codeigniter
-
 [Manual Book Sistem Checklist Toilet.pdf](https://github.com/kalebsu/UAS_Semester_3/files/10369968/Manual.Book.Sistem.Checklist.Toilet.pdf)
 
 - Hosting Website
 
+https://kaleb.site/checklist_toilet/
 
 - Tutorial Youtube
 
